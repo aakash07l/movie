@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Movie 1",
+    "downloadUrl": "https://example.com/movie1"
+  },
+  {
+    "title": "Movie 2",
+    "downloadUrl": "https://example.com/movie2"
+  }
+]
